@@ -46,8 +46,8 @@ const defaultMenu = {
 ╟🌄 *𝐇𝐚𝐫𝐢:* %week
 ╟📅 *𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
 ╟🕔 *𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
-╟👨‍ *𝐒𝐚𝐫𝐚𝐧𝐠𝐁𝐨𝐭:*
-╟https://github.com/AzzBott679
+╟👨‍ *𝐆𝐫𝐮𝐩𝐁𝐨𝐭:*
+╟https://chat.whatsapp.com/KrvwHNpBnzzBMtM55Vs5LO
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
