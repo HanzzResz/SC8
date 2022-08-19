@@ -13,7 +13,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 𝐀𝐫𝐢𝐠𝐚𝐭𝐨𝐮!!!
 
 Contact person Owner:
-wa.me/6281511480762 (Owner)`
+wa.me/6281222746323 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C1BfTNk2/6bfc0fa448e61d8f7fe5323fcfd28518.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -23,20 +23,20 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '🏧 Dana',
-               phoneNumber: '081511480762'
+               displayText: 'DanaTod',
+               phoneNumber: '082118537381'
              }
 
            },
                {
              callButton: {
-               displayText: 'Gopay',
-               phoneNumber: '081511480762'
+               displayText: 'GopayTOD',
+               phoneNumber: '081222746323'
              }
            },           
                {
              quickReplyButton: {
-               displayText: '🧒 Owner',
+               displayText: 'OwnerTod',
                id: '.owner',
              }
 
