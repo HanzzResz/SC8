@@ -6,11 +6,11 @@ Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 
 ┌〔 Donasi • Emoney 〕
-├🔃 Scan Barcod Qrisnya diatas🤗
+├🔃 Sehat Sehat Selalu yg donasi😇
 └────
 
 Berapapun donasi kalian akan sangat berarti 👍
-𝐀𝐫𝐢𝐠𝐚𝐭𝐨𝐮!!!
+𝚃𝚎𝚛𝚒𝚖𝚊𝚔𝚊𝚜𝚒𝚑!!!
 
 Contact person Owner:
 wa.me/6281222746323 (Owner)`
